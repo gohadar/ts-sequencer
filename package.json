@@ -1,7 +1,12 @@
 {
   "name": "ts-sequencer",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "A sequencing utility that helps you create a sequence of actions to run one after the other.",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/gohadar/ts-sequencer"
+  },
+  "homepage": "https://github.com/gohadar/ts-sequencer",
   "main": "dist/index.js",
   "types": "dist/index.d.ts",
   "scripts": {
